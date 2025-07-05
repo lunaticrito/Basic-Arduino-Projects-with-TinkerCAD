@@ -24,3 +24,10 @@
 - Temperature Sensor : https://www.tinkercad.com/things/lOutzmQrbIr-temperature-sensor
 - Thermometer with ATTiny : https://www.tinkercad.com/things/474RaLW8Ohd-thermometer-with-attiny
 - Traffic Light : https://www.tinkercad.com/things/bh9K56kwx0M-traffic-light
+
+
+
+# Author : 
+Ritovash Chanda
+Dept of CSE,
+Khulna University of Engineering & Technology
